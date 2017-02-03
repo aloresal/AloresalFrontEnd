@@ -1,0 +1,20 @@
+[{
+		"name" : "paypal",
+		"router" : "paypal",
+		"description" : "validate account credential and grab account info",
+		"status" : "available",
+		"fee" : {
+			"success" : 1,
+			"failed" : 0
+		}
+	}, {
+		"name" : "paypal isregistered",
+		"router" : "paypal_isregistered",
+		"description" : "validate account credential and grab account info",
+		"status" : "available",
+		"fee" : {
+			"success" : 1,
+			"failed" : 0
+		}
+	}
+]
